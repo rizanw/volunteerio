@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	INTERNATIONAL OFFICE OF ITS
+
+RECTORATE BUILDING 2ND FLOOR
+CAMPUS ITS SUKOLILO SURABAYA 60111
+TELP: +62-31-5994251 EXT 1224,
+TELP/FAX: +62-31-5923411
+EMAIL: international@its.ac.id
+</body>
+</html>
